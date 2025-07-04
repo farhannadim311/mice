@@ -11,3 +11,5 @@ Mice-Sleeper is a Python-based reimagining of the classic Minesweeper game, crea
 - 🖥️ Interactive frontend built with HTML and JavaScript
 - 🔁 Custom game state tracking, flood-fill reveal, and flag toggling ("bed" mode)
 - 🧪 Includes comprehensive `lab.py` logic with testable functions
+
+## Site Deployed on https://mice-gnok.onrender.com/
